@@ -1,0 +1,14 @@
+.cartao {
+  border-radius: 5px;
+  border: 2px;
+  background-color: #555;
+  box-shadow: 1px 1px 1px 1px rgba(0, 0, 0, 0.5);
+  max-width: 60vw;
+  padding: 1%;
+  margin: 5% 0 2% 8%;
+  transition: background-color 0.3s;
+}
+.cartao:hover {
+  background-color: #888;
+  color: black;
+}
